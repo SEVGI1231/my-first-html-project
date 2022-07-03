@@ -6,4 +6,5 @@ It has an `index.html` page.
 hello
 creating a new git repo 
 some changes to commit to 
+this is the new branch in mynewbranch 
 
